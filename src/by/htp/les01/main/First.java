@@ -8,8 +8,6 @@ public class First {
 		System.out.print(" Hello, world!!! ");
 		System.out.print(" Hello, world!!! ");
 		
-		int myVariable;
-		
 	}
 
 }
